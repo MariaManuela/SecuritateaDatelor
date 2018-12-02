@@ -1,12 +1,9 @@
 #include<stdio.h>
- 
-int main()
-{
-      #include<stdio.h>
 #include<string.h>
 #include<ctype.h>
 #include<stdlib.h>
-main()
+ 
+int main()
 {
  int i,j,k,numstr[100],numkey[100],numcipher[100];
  char str[100],key[100];
@@ -71,4 +68,3 @@ main()
  printf("\n");
 }
 
-}
